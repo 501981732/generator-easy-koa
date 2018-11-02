@@ -1,0 +1,17 @@
+
+import <%= controller %> from './../../models/<%= controller %>.js' 
+
+class <%= controller %> {
+
+    constructor(args) {
+        super(args)
+        this.baseUrl = '/<%= controller %>'
+    }
+    async index(ctx,next) {
+
+        next && next()
+    }
+
+}
+
+export default new <%= controller %>()

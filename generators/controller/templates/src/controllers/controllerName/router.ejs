@@ -1,0 +1,12 @@
+import controller from './controller.js'
+
+export const baseUrl = controller.baseUrl
+
+export default [{
+    method: 'GET',
+    route: '/',
+    handlers: [
+      controller.index
+    ]
+  },
+]
