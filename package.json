@@ -2,7 +2,7 @@
   "name": "generator-easy-koa",
   "version": "0.1.2",
   "description": "a generator for a koa",
-  "homepage": "https://github.com/501981732/koa-mongo-server.git",
+  "homepage": "https://github.com/501981732/generator-easy-koa.git",
   "author": {
     "name": "wangmeng",
     "email": "501981732@qq.com",
