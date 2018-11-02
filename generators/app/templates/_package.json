@@ -48,6 +48,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
     "cross-env": "^5.2.0",
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "supervisor": "^0.12.0"
   }
 }

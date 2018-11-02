@@ -18,7 +18,7 @@ module.exports = class extends Generator {
     prompting() {
       // Have Yeoman greet the user.
       this.log(
-        yosay(`Welcome to the gnarly ${chalk.red('generator-easy-koa')} generator! \r ${chalk.yellow('颤抖吧凡人')}`)
+        yosay(`Welcome to the gnarly ${chalk.red('generator-easy-koa')} generator!  ${chalk.yellow('颤抖吧凡人')}`)
       );
       const prompts = [{
           name: 'projectName', // 用户输入项标识，在获取用户输入值的时候用到
