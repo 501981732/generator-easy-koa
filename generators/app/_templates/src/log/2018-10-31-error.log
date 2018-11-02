@@ -1,0 +1,404 @@
+2018-10-31 16:09:44.122 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/bin/app.js:41:14)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/index.js:2:1)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+pid: 17006
+Host: biubiubiu.local
+URL: 
+Data: ''
+2018-10-31 16:09:44.122
+
+2018-10-31 16:11:44.688 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/bin/app.js:41:14)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/index.js:2:1)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+pid: 17012
+Host: biubiubiu.local
+URL: 
+Data: ''
+2018-10-31 16:11:44.688
+
+2018-10-31 16:13:44.238 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/bin/app.js:41:14)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/index.js:2:1)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+pid: 17149
+Host: biubiubiu.local
+URL: 
+Data: ''
+2018-10-31 16:13:44.238
+
+2018-10-31 16:18:40.047 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/bin/app.js:41:14)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/index.js:2:1)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+pid: 17346
+Host: biubiubiu.local
+URL: 
+Data: ''
+2018-10-31 16:18:40.047
+
+2018-10-31 16:20:33.593 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/bin/app.js:41:14)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/index.js:2:1)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+pid: 17459
+Host: biubiubiu.local
+URL: 
+Data: ''
+2018-10-31 16:20:33.593
+
+2018-10-31 16:21:10.684 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/bin/app.js:41:14)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/test/index.spec.js:2:11)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at /Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:250:27
+    at Array.forEach (<anonymous>)
+    at Mocha.loadFiles (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:247:14)
+    at Mocha.run (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:576:10)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/bin/_mocha:637:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3
+pid: 17493
+Host: biubiubiu.local
+URL: 
+Data: ''
+2018-10-31 16:21:10.684
+
+2018-10-31 16:25:24.695 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/bin/app.js:41:14)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/test/index.spec.js:2:11)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at /Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:250:27
+    at Array.forEach (<anonymous>)
+    at Mocha.loadFiles (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:247:14)
+    at Mocha.run (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:576:10)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/bin/_mocha:637:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3
+pid: 17534
+Host: biubiubiu.local
+URL: 
+Data: ''
+2018-10-31 16:25:24.695
+
+2018-10-31 16:29:11.934 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/bin/app.js:41:14)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/test/index.spec.js:2:11)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at /Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:250:27
+    at Array.forEach (<anonymous>)
+    at Mocha.loadFiles (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:247:14)
+    at Mocha.run (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:576:10)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/bin/_mocha:637:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3
+pid: 17647
+Host: biubiubiu.local
+URL: 
+Data: ''
+2018-10-31 16:29:11.934
+
+2018-10-31 16:29:34.279 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/bin/app.js:41:14)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/test/index.spec.js:2:11)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at /Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:250:27
+    at Array.forEach (<anonymous>)
+    at Mocha.loadFiles (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:247:14)
+    at Mocha.run (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:576:10)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/bin/_mocha:637:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3
+pid: 17676
+Host: biubiubiu.local
+URL: 
+Data: ''
+2018-10-31 16:29:34.279
+
+2018-10-31 16:30:42.324 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/bin/app.js:41:14)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/test/index.spec.js:2:11)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at /Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:250:27
+    at Array.forEach (<anonymous>)
+    at Mocha.loadFiles (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:247:14)
+    at Mocha.run (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:576:10)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/bin/_mocha:637:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3
+pid: 17854
+Host: biubiubiu.local
+URL: 
+Data: ''
+2018-10-31 16:30:42.324
+
+2018-10-31 16:36:12.082 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/bin/app.js:41:14)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/test/index.spec.js:2:11)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at /Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:250:27
+    at Array.forEach (<anonymous>)
+    at Mocha.loadFiles (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:247:14)
+    at Mocha.run (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:576:10)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/bin/_mocha:637:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3
+pid: 17893
+Host: biubiubiu.local
+URL: 
+Data: ''
+2018-10-31 16:36:12.082
+
+2018-10-31 16:36:52.234 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/bin/app.js:41:14)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/test/index.spec.js:2:11)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at /Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:250:27
+    at Array.forEach (<anonymous>)
+    at Mocha.loadFiles (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:247:14)
+    at Mocha.run (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/lib/mocha.js:576:10)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/mocha/bin/_mocha:637:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3
+pid: 18021
+Host: biubiubiu.local
+URL: 
+Data: ''
+2018-10-31 16:36:52.234
+
+2018-10-31 16:43:39.148 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/bin/app.js:41:14)
+    at Module._compile (module.js:652:30)
+    at loader (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/koa-mongo-server/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/koa-mongo-server/index.js:2:1)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+pid: 18296
+Host: biubiubiu.local
+URL: 
+Data: ''
+2018-10-31 16:43:39.148
+
