@@ -11,7 +11,6 @@ import Base from './../../prototype/base.js'
  * @extends Base
  */
 <% if(db == 'mongodb'){ %>
-
 class User extends Base{
     /**
      * Create a user

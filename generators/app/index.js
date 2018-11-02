@@ -122,6 +122,8 @@ module.exports = class extends Generator {
           ['src/log/_gitkeep', 'src/log/.gitkeep'],
           ['_package.json', 'package.json'],
           ['src/db/index.js', 'src/db/index.js'],
+          ['src/controllers/user/controller.js', 'src/controllers/user/controller.js'],
+          ['src/models/user.js', 'src/models/user.js'],
         ]
         // 是否添加单元测试
         this.props.test && target.push('test/index.spec.js')
