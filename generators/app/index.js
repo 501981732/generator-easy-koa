@@ -62,7 +62,7 @@ module.exports = class extends Generator {
       {
         name: 'db',
         type: 'list',
-        message: 'Chich database whould you like',
+        message: 'Which database whould you like',
         choices: [{
           name: 'mongodb',
           value: 'mongodb',

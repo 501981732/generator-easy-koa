@@ -18,9 +18,9 @@ yo easy-koa:controller controllerName  一键生成controller
 ```
 
 
-<img src="https://github.com/501981732/generator-easy-koa/blob/master/screenshots/l.gif" />
+<img src="https://github.com/501981732/generator-easy-koa/blob/master/screenshots/l.gif?raw=true" />
 
-<img src="https://github.com/501981732/generator-easy-koa/blob/master/screenshots/ll.gif" />
+<img src="https://github.com/501981732/generator-easy-koa/blob/master/screenshots/ll.gif?raw=true" />
 
 ## 项目相关依赖
 
