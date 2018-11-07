@@ -17,6 +17,9 @@ yo easy-koa   一键生成可配置项目
 yo easy-koa:controller controllerName  一键生成controller
 ```
 
+
+<img src="https://github.com/501981732/generator-easy-koa/blob/master/image/l.gif" width="365" height="619"/>
+
 ## 项目相关依赖
 
 > dependencies 
