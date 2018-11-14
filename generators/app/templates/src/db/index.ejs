@@ -36,6 +36,6 @@
   const db = mysql.createPool({host:config.sql_host,user:config.sql_user,password:config.sql_password,database:config.database})
 
 <% } else {%>
-  const db 
+  const db = ''
 <% } %>
 export default db;
